@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995472257503",
+    "project_id": "projectpoc-16576",
+    "storage_bucket": "projectpoc-16576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995472257503:android:205f2c3b724321fc9c146a",
+        "android_client_info": {
+          "package_name": "com.devzin.project_poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDIinxz8Bk_Ju722gx7MlBZWpvsezw_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

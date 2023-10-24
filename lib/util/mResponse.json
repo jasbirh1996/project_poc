@@ -1,0 +1,89 @@
+
+{
+  "id": "xmGFce0eM2FcDnK3fz2E",
+  "formGroups": [
+    {
+      "id": "0x0OzrVx6dvGpYt2Wozs",
+      "formId": "xmGFce0eM2FcDnK3fz2E",
+      "description": null,
+      "position": "655366553665536",
+      "title": "dsfsdfsdfsd",
+      "content": [],
+      "controls": [
+        {
+          "id": "jc0mGKulAVHx7a3lz9Mh",
+          "formId": "xmGFce0eM2FcDnK3fz2E",
+          "validators": null,
+          "groupId": "0x0OzrVx6dvGpYt2Wozs",
+          "label": "Sample",
+          "title": "sdfsdfsdfsf",
+          "type": "text",
+          "required": true,
+          "mode": "web",
+          "readonly": null,
+          "name": "sample",
+          "options": {
+            "min": 1,
+            "clearInput": true,
+            "max": 50,
+            "minLength": 1,
+            "maxLength": 50
+          },
+          "disabled": false,
+          "inputType": "default",
+          "placeholder": null,
+          "position": 65536,
+          "value": null
+        },
+        {
+          "id": "jc0mGKulAVHx7a3lz9Mi",
+          "formId": "xmGFce0eM2FcDnK3fz2E",
+          "validators": null,
+          "groupId": "0x0OzrVx6dvGpYt2Wozs",
+          "label": "Toggle Field",
+          "title": "sdfsdfsdfsf",
+          "type": "toggle",
+          "required": true,
+          "mode": "web",
+          "readonly": null,
+          "name": "toggle_sample",
+          "options": {},
+          "disabled": false,
+          "inputType": "default",
+          "placeholder": null,
+          "position": 65537,
+          "value": false
+        },
+        {
+          "id": "jc0mGKulAVHx7a3lz9Mj",
+          "formId": "xmGFce0eM2FcDnK3fz2E",
+          "validators": null,
+          "groupId": "0x0OzrVx6dvGpYt2Wozs",
+          "label": "Spinner Field",
+          "title": "sdfsdfsdfsf",
+          "type": "spinner",
+          "required": true,
+          "mode": "web",
+          "readonly": null,
+          "name": "spinner_sample",
+          "options": {
+            "items": ["Option 1", "Option 2", "Option 3"]
+          },
+          "disabled": false,
+          "inputType": "default",
+          "placeholder": null,
+          "position": 65538,
+          "value": "Option 1"
+        }
+      ]
+    }
+  ],
+  "mode": "web",
+  "styleType": "default",
+  "description": "Edit user profile form",
+  "lastActivity": {
+    "seconds": 1692000915,
+    "nanoseconds": 301000000
+  },
+  "title": "Edit Profile 3"
+}
